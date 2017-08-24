@@ -31,11 +31,9 @@
 *.out
 *.app
 
- *.vcxproj.user , *.pdb, *.idb, the Debug folder, etc.
-
-
 #Visual Studio Files
 *.vcxproj.user
 *.pdb
 *idb
 *Debug/
+*.vs
